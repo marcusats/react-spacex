@@ -20,23 +20,24 @@ This project is a Single Page Application (SPA) built with React and Vite that u
 
 1. Clone the repository to your local machine:
 
-   ```bash
+```bash
    git clone https://github.com/marcusats/react-spacex.git
-  ```
+```
 2. Navigate to the project directory:
 
-   ```bash
-   cd react-spacex
-   ```
+```bash
+cd react-spacex
+```
 
 3. Install the project dependencies:
 
-   ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 4. Start the development server:
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
+
 5. Open your web browser and navigate to `http://localhost:5173` to view the application.
